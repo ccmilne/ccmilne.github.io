@@ -18,4 +18,4 @@
 **Comparing Pre-trained and Fine-tuned Transformers Models on Patent Data**
 - Compared performance of LLM models (BART, Pegasus, T5) before and after fine-tuning on patent data to measure generalizability of popular transformer models on scientific language and performance trade offs for size differences
 
-
+- Generic project here
