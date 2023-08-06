@@ -1,5 +1,11 @@
 title: Cameron Milne
 logo: /assets/img/CMR.jpg
-# description: text below image
+description: > #text below image
+  Data Scientist with broad-based experience building data-intensive applications and delivering analytical solutions to improve decision-making. Proficient in statistics, ML methodologies, time series analyses, data engineering, and data mining algorithms in Python and SQL with specific interests in cloud engineering and language challenges. Capable of creating, developing, testing, and deploying technical solutions in production environments to translate technical solutions into business value.
+  <br><br>
+  Currently working on KPMG's Data, Analytics, and AI team. See below for details.
+  <br><br>
+  <a href="https://www.linkedin.com/in/cameron-milne/">View My LinkedIn Profile</a>
+
 # show_downloads: true
 theme: jekyll-theme-minimal
