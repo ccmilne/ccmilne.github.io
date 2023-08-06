@@ -1,17 +1,17 @@
 title: Cameron Milne
 logo: /assets/img/CMR.jpg
 description: > #text below image
-
-  # Links to sites
   <p align="center">
     <a href="https://www.linkedin.com/in/cameron-milne/">LinkedIn</a> |
     <a href="https://github.com/ccmilne">GitHub</a>
   </p>
 
+  <p align="justify">
   Data Scientist with broad-based experience building data-intensive applications and delivering analytical solutions
   <br><br>
   Currently working on KPMG's Data, Analytics, and AI team. See below for details.
   <br><br>
+  </p>
 
-# show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal

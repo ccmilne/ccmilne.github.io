@@ -1,10 +1,12 @@
-# Data Science Portfolio
-
-### Education
+# Portfolio
+---
+## Education
 M.S. Information | University of Michigan (_May 2022_)
+
 B.A. | University of Michigan (_May 2020_)
 
-### Work Experience
+## Work Experience
+
 **Data Scientist @ KPMG, Digital Lighthouse (_July 2022 - Present_)**
 - Designed a Google Cloud pipeline for summarizing earnings call transcripts using LangChain’s framework for chaining a VertexAI model with a VectorStore to provide contextual querying based on predefined prompts for a large banking client
 - Performed attrition modeling for a leading global life sciences company, analyzing attrition for vulnerable populations with survival curves, time series analyses, and statistical inference, delivering a set of Power BI dashboards for monitoring risk
