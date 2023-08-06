@@ -1,9 +1,15 @@
 # Portfolio
----
-## Education
-M.S. Information | University of Michigan (_May 2022_)
 
-B.A. FTVM | University of Michigan (_May 2020_)
+---
+
+## Education
+- M.S. Information, University of Michigan (_May 2022_)
+- B.A. FTVM, University of Michigan (_May 2020_)
+
+## Certifications
+- Google Professional Data Engineer (exp. _June 2025_)
+- Google Associate Cloud Engineer (exp. _March 2025_)
+- SnowPro Core Certification (exp. _July 2025_)
 
 ---
 ## Work Experience
