@@ -58,14 +58,15 @@ LangChain and LLM-backed application for providing Q&A capabilities on an Excel 
 
 <center><img src='assets/img/excel_document_analyzer.png'/></center>
 
-<<<<<<< HEAD
 ---
 ## Information Retrieval Projects
 
 ---
 ## Data Science Projects
-=======
-## Techstack
+
+---
+## Tech Stack
+
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" />
@@ -86,4 +87,3 @@ LangChain and LLM-backed application for providing Q&A capabilities on an Excel 
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=plastic&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white" />  
 </p>
->>>>>>> 74c8abe94bc2f47a1df773a8eb96fb895adf20e8
