@@ -1,22 +1,21 @@
 theme: jekyll-theme-minimal
 
-site:
-  title: Cameron Milne
-  logo: /assets/img/CMR.jpg
-  description: > #text below image
-    <p align="center">
-      <a href="https://www.linkedin.com/in/cameron-milne/">LinkedIn</a> |
-      <a href="https://github.com/ccmilne">GitHub</a>
-    </p>
+title: Cameron Milne
+logo: /assets/img/CMR.jpg
+description: > #text below image
+  <p align="center">
+    <a href="https://www.linkedin.com/in/cameron-milne/">LinkedIn</a> |
+    <a href="https://github.com/ccmilne">GitHub</a>
+  </p>
 
-    <p align="justify">
-    Data Scientist with experience building data-intensive applications while delivering analytical solutions to improve decision-making.
-    <br><br>
-    Currently working for KPMG's Data, Analytics, and AI team. Industry sectors have included Life Sciences, Banking, and Entertainment.
-    <br><br>
-    </p>
+  <p align="justify">
+  Data Scientist with experience building data-intensive applications while delivering analytical solutions to improve decision-making.
+  <br><br>
+  Currently working for KPMG's Data, Analytics, and AI team. Industry sectors have included Life Sciences, Banking, and Entertainment.
+  <br><br>
+  </p>
 
-  #show_downloads: true
+#show_downloads: true
 
 # Conversion
 markdown: kramdown
@@ -43,3 +42,11 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
