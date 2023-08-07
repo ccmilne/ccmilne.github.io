@@ -1,30 +1,42 @@
-title: Cameron Milne
-logo: /assets/img/CMR.jpg
-description: > #text below image
-  <p align="center">
-    <a href="https://www.linkedin.com/in/cameron-milne/">LinkedIn</a> |
-    <a href="https://github.com/ccmilne">GitHub</a>
-  </p>
-
-  <p align="justify">
-  Data Scientist with experience building data-intensive applications while delivering analytical solutions to improve decision-making.
-  <br><br>
-  Currently working for KPMG's Data, Analytics, and AI team. Industry sectors have included Life Sciences, Banking, and Entertainment.
-  <br><br>
-  </p>
-
-#show_downloads: true
 theme: jekyll-theme-minimal
 
-plugins:
-  - jekyll-toc
-  # - github-pages-octopress-toc:
-  #     permalink: /
-  #     title: "Table of Contents"
-  #     css_class: "toc"
+site:
+  title: Cameron Milne
+  logo: /assets/img/CMR.jpg
+  description: > #text below image
+    <p align="center">
+      <a href="https://www.linkedin.com/in/cameron-milne/">LinkedIn</a> |
+      <a href="https://github.com/ccmilne">GitHub</a>
+    </p>
 
-# # Plugins (previously gems:)
-# plugins:
+    <p align="justify">
+    Data Scientist with experience building data-intensive applications while delivering analytical solutions to improve decision-making.
+    <br><br>
+    Currently working for KPMG's Data, Analytics, and AI team. Industry sectors have included Life Sciences, Banking, and Entertainment.
+    <br><br>
+    </p>
+
+  #show_downloads: true
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
