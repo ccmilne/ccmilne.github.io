@@ -31,17 +31,17 @@ toc_icon: "bookmark"
 - Presented on bootstrapping generative AI approaches for over 230 colleagues, providing tutorials on creating Streamlit.io [demos](https://github.com/ccmilne/GenAI_Boilerplate_Streamlit) with OpenAI, summarization tasks, and prompt engineering strategies for KPMG’s internal ChatGPT API with Jupyter
 
 ---
-## Projects
+## Natural Language Processing (NLP) Projects
 
 ### Twitter Plug-In for Reducing Harmful Content
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/andy-techen/better-social-media)
-[![View on Medium](https://img.shields.io/badge/Medium-View_on_Medium-white?logo=Medium)](https://medium.com/@ccmilne/filtering-twitter-reducing-toxic-depressive-profane-and-sexually-explicit-tweets-through-a6e2220e1760)
+[![View on Medium](https://img.shields.io/badge/Medium-Read_on_Medium-white?logo=Medium)](https://medium.com/@ccmilne/filtering-twitter-reducing-toxic-depressive-profane-and-sexually-explicit-tweets-through-a6e2220e1760)
 
 Built a Chrome extension capable of filtering a Twitter feed based on negative content (e.g. depressiveness) using an XgBoost model and packing into a RESTful API deployed on Heroku (Github, Medium)
 
 <center><img src='assets/img/twitter_filters.png'/></center>
-<center><img src='assets/img/twitter_whiteout.png'/></center>
+<!-- <center><img src='assets/img/twitter_whiteout.png'/></center> -->
 
 ---
 ### Comparing Pre-trained and Fine-tuned Transformers Models on Patent Data
@@ -56,3 +56,9 @@ Compared performance of LLM models (BART, Pegasus, T5) before and after fine-tun
 LangChain and LLM-backed application for providing Q&A capabilities on an Excel document
 
 <center><img src='assets/img/excel_document_analyzer.png'/></center>
+
+---
+## Information Retrieval Projects
+
+---
+## Data Science Projects
