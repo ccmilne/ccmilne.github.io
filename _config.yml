@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 title: Cameron Milne
 logo: /assets/img/CMR.jpg
 description: > #text below image
@@ -15,6 +13,7 @@ description: > #text below image
   <br><br>
   </p>
 
+theme: jekyll-theme-minimal
 #show_downloads: true
 
 # # Conversion
