@@ -17,7 +17,17 @@ description: > #text below image
 theme: jekyll-theme-minimal
 
 plugins:
-  - github-pages-octopress-toc:
-      permalink: /
-      title: "Table of Contents"
-      css_class: "toc"
+  - jekyll-toc
+  # - github-pages-octopress-toc:
+  #     permalink: /
+  #     title: "Table of Contents"
+  #     css_class: "toc"
+
+# # Plugins (previously gems:)
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-include-cache
+#   - jekyll-redirect-from
