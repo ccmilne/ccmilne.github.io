@@ -1,3 +1,11 @@
+---
+title: "Portfolio"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
+---
+*Updated: 8/7/2023
+
 # Portfolio
 
 ---
@@ -5,6 +13,8 @@
 ## Education
 - M.S. Information, University of Michigan (_May 2022_)
 - B.A. FTVM, University of Michigan (_May 2020_)
+
+---
 
 ## Certifications
 - Google Professional Data Engineer (exp. _June 2025_)
@@ -26,6 +36,7 @@
 ### Twitter Plug-In for Reducing Harmful Content
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/andy-techen/better-social-media)
+[![View on Medium](https://img.shields.io/badge/Medium-View_on_Medium-white?logo=Medium)](https://medium.com/@ccmilne/filtering-twitter-reducing-toxic-depressive-profane-and-sexually-explicit-tweets-through-a6e2220e1760)
 
 Built a Chrome extension capable of filtering a Twitter feed based on negative content (e.g. depressiveness) using an XgBoost model and packing into a RESTful API deployed on Heroku (Github, Medium)
 
