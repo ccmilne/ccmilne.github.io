@@ -34,7 +34,8 @@ theme: jekyll-theme-minimal
 #   smart_quotes: lsquo,rsquo,ldquo,rdquo
 #   enable_coderay: false
 
-# plugins:
+plugins:
+  - jekyll-toc
 #   - jekyll-paginate
 #   - jekyll-sitemap
 #   - jekyll-gist
