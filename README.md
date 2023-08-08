@@ -47,7 +47,11 @@ Built a Chrome extension capable of filtering a Twitter feed based on negative c
 ---
 ### Comparing Pre-trained and Fine-tuned Transformers Models on Patent Data
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/huggingface-fine-tuning)
+
 Compared performance of LLM models (BART, Pegasus, T5) before and after fine-tuning on patent data to measure generalizability of popular transformer models on scientific language and performance trade offs for size differences
+
+<center><img src='assets/img/huggingface_fine_tuning_results.png'/></center>
 
 ---
 ### Excel Document Analyzer with LangChain and VertexAI
