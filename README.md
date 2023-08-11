@@ -66,6 +66,19 @@ LangChain and LLM-backed application for providing Q&A capabilities on an Excel 
 ## Information Retrieval Projects
 
 ---
+### SI650-IR
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/SI650-IR)
+
+My complete implementation of assignments in _SI-650: Information Retrieval_ at the University of Michigan (Spring, 2022)
+
+Topics include
+
+- [Probabilistic models of retrieval and simple text analysis](https://github.com/ccmilne/SI650-IR/tree/main/assignment1)
+- [Building a ranking function and simple search engine](https://github.com/ccmilne/SI650-IR/tree/main/assignment2)
+- [Training a deep learning retrieval system (PyTerrier) with GPUs](https://github.com/ccmilne/SI650-IR/tree/main/assignment3)
+
+---
 ## Data Science Projects
 
 ---
