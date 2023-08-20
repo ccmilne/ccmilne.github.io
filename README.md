@@ -54,6 +54,19 @@ Compared performance of LLM models (BART, Pegasus, T5) before and after fine-tun
 <center><img src='assets/img/huggingface_fine_tuning_results.png'/></center>
 
 ---
+### Verizon Support and Sales Chatbot Service
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/support-agent-with-langchain)
+
+Python implementation of a support agent capable of discerning a customer/user's motivation and responding with the appropriate personality (tech support vs. sales) to serve their needs.
+
+The project uses LangChain's framework for chaining an augmented retrieval function to a chat LLM to provide document Q&A capabilities. The Agent uses the same LLM and a set of tools with predefined use-cases and retrieval mechanisms to interpret the user input and respond with the appropriate tool. The data used in this repo is a collection of Verizon FAQ materials scraped from their blog.
+
+This is a rudimentary approach approximating a large-scale chatbot service with billing that scales with customer demand and intelligent Q&A capabilities on a personalized dataset.
+
+<center><img src='assets/img/RetrievalQA_architecture.png'/></center>
+
+---
 ### Excel Document Analyzer with LangChain and VertexAI
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/ExcelDocumentAnalyzer)
