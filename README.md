@@ -79,6 +79,7 @@ LangChain and LLM-backed application for providing Q&A capabilities on an Excel 
 ## Information Retrieval Projects
 
 ---
+
 ### SI650-IR
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/SI650-IR)
@@ -93,6 +94,32 @@ Topics include
 
 ---
 ## Data Science Projects
+
+---
+
+### Machine Learning References
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/ml-approaches)
+
+Collection of ML use-cases, implementations, and cleaned datasets for reference. Scripts are sourced from personal projects and coursework.
+
+```bash
+|--PyTorch
+|   |-- LogIt implementation
+|
+|--Keras
+|   |-- Computer Vision with CNN
+|
+|--HuggingFace (Transformers)
+|   |-- Predicting Helpful StackOverflow Answers
+|
+|--Scikit-Learn
+|
+|--Coursework
+|   |--SI630 - Natural Language Processing
+|   |--SI670 - Applied Machine Learning
+|   |--SI671 - Data Mining
+```
 
 ---
 ## Tech Stack
