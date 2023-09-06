@@ -105,18 +105,25 @@ Collection of ML use-cases, implementations, and cleaned datasets for reference.
 
 ```bash
 |--PyTorch
-|   |-- LogIt implementation
+|   |-- Classifying the Political Framing of Campaign Emails (Logistic Regression)
+|   |-- Train a Word2Vec model on Wikipedia Biographies with debiasing (Tensorboard)
 |
 |--Keras
 |   |-- Computer Vision with CNN
 |
 |--HuggingFace (Transformers)
-|   |-- Predicting Helpful StackOverflow Answers
+|   |-- Predicting Helpful Stack Overflow Answers and Data Annotation/Measuring Annotation Quality
+|   |-- Pattern-Based Learning (Exploitation Training) for Toxic Language
 |
 |--Scikit-Learn
 |
-|--Coursework
+|--Coursework Examples
 |   |--SI630 - Natural Language Processing
+|   |   |-- Classifying the Political Framing of Campaign Emails (Logistic Regression)
+|   |   |-- Train a Word2Vec model on Wikipedia Biographies with debiasing (Tensorboard)
+|   |   |-- Predicting Helpful Stack Overflow Answers and Data Annotation/Measuring Annotation Quality (HuggingFace)
+|   |   |-- Pattern-Based Learning (Exploitation Training) for Toxic Language
+|   |
 |   |--SI670 - Applied Machine Learning
 |   |--SI671 - Data Mining
 ```
