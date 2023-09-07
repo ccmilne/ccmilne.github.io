@@ -25,7 +25,7 @@ toc_icon: "bookmark"
 ---
 ## Work Experience
 
-**Data Scientist @ KPMG, Digital Lighthouse (_July 2022 - Present_)**
+**Data Scientist @ KPMG, Digital Lighthouse (_July 2022 - August 2023_)**
 - Designed a Google Cloud pipeline for summarizing earnings call transcripts using LangChain’s framework for chaining a VertexAI model with a VectorStore to provide contextual querying based on predefined prompts for a large banking client
 - Performed attrition modeling for a leading global life sciences company, analyzing attrition for vulnerable populations with survival curves, time series analyses, and statistical inference, delivering a set of Power BI dashboards for monitoring risk
 - Repaired an outdated ML pipeline predict box office results for a large streaming service using social media sentiment with 70%+ accuracy by updating deprecated API features, streamlining comment scraping, and improving regularization methods
