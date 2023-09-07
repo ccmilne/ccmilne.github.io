@@ -76,7 +76,23 @@ LangChain and LLM-backed application for providing Q&A capabilities on an Excel 
 <center><img src='assets/img/excel_document_analyzer.png'/></center>
 
 ---
+### SI630-NLP
+
+
+
+---
 ## Information Retrieval Projects
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/ml-approaches/tree/main/courswork/SI630)
+
+My complete implementation of assignments in _SI-630: Natural Language Processing_ at the University of Michigan (Fall, 2021)
+
+Topics include:
+
+- [Classifying the Political Framing of Campaign Emails with PyTorch](https://github.com/ccmilne/ml-approaches/blob/main/courswork/SI630/assignment_01/Logistic_Regression.ipynb)
+- [Training a Word2Vec model on Wikipedia Biographies and debiasing harmful associations](https://github.com/ccmilne/ml-approaches/blob/main/courswork/SI630/assignment_02/Word2Vec%20Pytorch.ipynb)
+- [Predicting Helpful Stack Overflow Answers and working with Data Annotation/Measuring Annotation Quality](https://github.com/ccmilne/ml-approaches/blob/main/courswork/SI630/assignment_03/SI630_HW3%20(3).ipynb)
+- [Pattern-Based Learning (Exploitation Training) for Toxic Language](https://github.com/ccmilne/ml-approaches/blob/main/courswork/SI630/assignment_04/HW4_PatternExploitingTraining%20(2).ipynb)
 
 ---
 
@@ -86,7 +102,7 @@ LangChain and LLM-backed application for providing Q&A capabilities on an Excel 
 
 My complete implementation of assignments in _SI-650: Information Retrieval_ at the University of Michigan (Spring, 2022)
 
-Topics include
+Topics include:
 
 - [Probabilistic models of retrieval and simple text analysis](https://github.com/ccmilne/SI650-IR/tree/main/assignment1)
 - [Building a ranking function and simple search engine](https://github.com/ccmilne/SI650-IR/tree/main/assignment2)
