@@ -76,12 +76,10 @@ LangChain and LLM-backed application for providing Q&A capabilities on an Excel 
 <center><img src='assets/img/excel_document_analyzer.png'/></center>
 
 ---
-### SI630-NLP
-
-
+## Information Retrieval Projects
 
 ---
-## Information Retrieval Projects
+### SI630-NLP
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/ml-approaches/tree/main/courswork/SI630)
 
