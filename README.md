@@ -76,9 +76,6 @@ LangChain and LLM-backed application for providing Q&A capabilities on an Excel 
 <center><img src='assets/img/excel_document_analyzer.png'/></center>
 
 ---
-## Information Retrieval Projects
-
----
 ### SI630-NLP
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/ml-approaches/tree/main/courswork/SI630)
@@ -93,7 +90,9 @@ Topics include:
 - [Pattern-Based Learning (Exploitation Training) for Toxic Language](https://github.com/ccmilne/ml-approaches/blob/main/courswork/SI630/assignment_04/HW4_PatternExploitingTraining%20(2).ipynb)
 
 ---
+## Information Retrieval Projects
 
+---
 ### SI650-IR
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ccmilne/SI650-IR)
