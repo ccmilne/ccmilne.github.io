@@ -7,7 +7,7 @@ toc_icon: "bookmark"
 ---
 
 # Portfolio
-*Updated: 9/6/2023*
+*Updated: 10/12/2023*
 
 ---
 
@@ -145,6 +145,15 @@ Collection of ML use-cases, implementations, and cleaned datasets for reference.
 |   |   |-- Time Series analysis of COVID-19 trends for G7 Nations
 |   |   |-- Social Network Analysis for Amazon Product Reviews
 ```
+
+---
+### MLOps References
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
+
+My complete implementation of assignments in _Machine Learning Engineering for Production (MLOps) Specialization_ taught by Andrew Ng on Coursera. This repo is a collection of the scripts and projects for future reference.
+
+
 
 ---
 ## Tech Stack
