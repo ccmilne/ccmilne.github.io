@@ -7,7 +7,7 @@ toc_icon: "bookmark"
 ---
 
 # Portfolio
-*Updated: 10/12/2023*
+*Updated: 10/21/2023*
 
 ---
 
@@ -21,6 +21,7 @@ toc_icon: "bookmark"
 - Google Professional Data Engineer (exp. _June 2025_)
 - Google Associate Cloud Engineer (exp. _March 2025_)
 - SnowPro Core Certification (exp. _July 2025_)
+- Machine Learning Engineering for Production (MLOps) from DeepLearning.AI
 
 ---
 ## Work Experience
