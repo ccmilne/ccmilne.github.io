@@ -7,16 +7,14 @@ toc_icon: "bookmark"
 ---
 
 # Portfolio
-*Updated: 10/21/2023*
+*Updated: 5/31/2025*
 
 ---
-
 ## Education
 - M.S. Information, University of Michigan (_May 2022_)
-- B.A. FTVM, University of Michigan (_May 2020_)
+- B.A. Liberal Arts, University of Michigan (_May 2020_)
 
 ---
-
 ## Certifications
 - Google Professional Data Engineer (exp. _June 2025_)
 - Google Associate Cloud Engineer (exp. _March 2025_)
@@ -24,7 +22,20 @@ toc_icon: "bookmark"
 - Machine Learning Engineering for Production (MLOps) from DeepLearning.AI
 
 ---
+## Publications
+- Ensemble Retrieval Strategies for an Improved NAICS Search Engine in the U.S. Census Bureau [![OrcID](https://zenodo.org/records/13307742)]
+
+---
 ## Work Experience
+
+**Sr. AI Engineer @ Reveal Global Consulting (_October 2023 - Now_)**
+- Lead developer for IRIS, an AWS-native application hosting search engines across NAICS, NAPCS, OCC, and Schedule B products, built with Docker, ECS, Fargate, and Sagemaker servicing 1000+ users internally and deployed inexpensively
+- Built an LLM-driven pipeline for migrating Federal codebases in SAS to Python, indexing large codebases into graph databases and reconstructing them in Python, accepted to speak at the 2025 Joint Statistical Meetings (JSM)
+- Overseeing a team of 5 data scientists on code migration for critical surveys across the U.S. Census Bureau (AHS, CPS, SOMA, NSSRN, and Frames), supporting cloud migration efforts and reducing taxpayer burden
+- Designed an internal-use search engine for North American Industry Classification System (NAICS) analysts, Dockerized and wrapped in a Streamlit frontend to reduce response burden and facilitate human-in-the-loop feedback from experts
+- De facto ML Engineer for the AI/ML solutions and Statistical Modernization groups through guidance on deployment best practices with CI/CD pipelines, cloud engineering, and monitoring and observability (including tools specialized for LLMs)
+
+
 
 **Data Scientist @ KPMG, Digital Lighthouse (_July 2022 - August 2023_)**
 - Designed a Google Cloud pipeline for summarizing earnings call transcripts using LangChain’s framework for chaining a VertexAI model with a VectorStore to provide contextual querying based on predefined prompts for a large banking client
