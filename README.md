@@ -23,7 +23,7 @@ toc_icon: "bookmark"
 
 ---
 ## Publications
-- Ensemble Retrieval Strategies for an Improved NAICS Search Engine in the U.S. Census Bureau [![OrcID](https://zenodo.org/records/13307742)]
+- [Ensemble Retrieval Strategies for an Improved NAICS Search Engine in the U.S. Census Bureau](https://zenodo.org/records/13307742) (Joint Statistical Meetings, 2024)
 
 ---
 ## Work Experience
